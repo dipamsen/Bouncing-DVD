@@ -4,7 +4,7 @@ var ySpeed = 4;
 var xPosition,yPosition;
 var imgwidth, imgheight;
 function preload(){
-    dvd = loadImage('DVD logo.png');
+    dvd = loadImage("DVD logo.png");
 }
 
 function setup(){
